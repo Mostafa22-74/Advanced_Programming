@@ -1,0 +1,14 @@
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\bin\Debug\net8.0\Week01_IO_Validation.exe
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\bin\Debug\net8.0\Week01_IO_Validation.deps.json
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\bin\Debug\net8.0\Week01_IO_Validation.runtimeconfig.json
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\bin\Debug\net8.0\Week01_IO_Validation.dll
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\bin\Debug\net8.0\Week01_IO_Validation.pdb
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\obj\Debug\net8.0\Week01_IO_Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\obj\Debug\net8.0\Week01_IO_Validation.AssemblyInfoInputs.cache
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\obj\Debug\net8.0\Week01_IO_Validation.AssemblyInfo.cs
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\obj\Debug\net8.0\Week01_IO_Validation.csproj.CoreCompileInputs.cache
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\obj\Debug\net8.0\Week01_IO_Validation.dll
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\obj\Debug\net8.0\refint\Week01_IO_Validation.dll
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\obj\Debug\net8.0\Week01_IO_Validation.pdb
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\obj\Debug\net8.0\Week01_IO_Validation.genruntimeconfig.cache
+D:\work\univ\courses\3rd_advanced_programming\Labs\Labs\Week01_IO_Validation\obj\Debug\net8.0\ref\Week01_IO_Validation.dll
